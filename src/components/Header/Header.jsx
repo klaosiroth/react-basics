@@ -1,4 +1,4 @@
-import reactLogo from '../assets/react.svg';
+import reactLogo from 'src/assets/react.svg';
 import './Header.css';
 
 export default function Header() {
